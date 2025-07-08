@@ -1,0 +1,1 @@
+# lgpd-risk-checker
